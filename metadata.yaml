@@ -1,0 +1,28 @@
+_repo: Skookum-Chuck-Fables--Bits-of-History-Through-the-Microscope_16926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cumming, R. D. (Robert Dalziel)
+    alias: Skookum Chuck
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '7032'
+    url: http://www.gutenberg.org/2009/agents/7032
+description: ''
+gutenberg_issued: '2005-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian wit and humor'
+- !lcc 'PS'
+- !lcsh 'British Columbia -- Anecdotes'
+title: 'Skookum Chuck Fables: Bits of History, Through the Microscope'
+url: http://www.gutenberg.org/ebooks/16926
